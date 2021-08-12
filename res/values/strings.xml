@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="name">Name</string>
+    <string name="lot_no">Lot No</string>
+    <string name="pieces">Pieces</string>
+    <string name="remark">Remark</string>
+    <string name="size_length">size length</string>
+    <string name="size_width">size width</string>
+    <string name="sq_ft">Sq Ft</string>
+    <string name="thickness">Thickness</string>
+    <string name="todo">TODO</string>
+    <string name="calculate">Calculate</string>
+    <string name="calculateOnClick">Value</string>
+</resources>
